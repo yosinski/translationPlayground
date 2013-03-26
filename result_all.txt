@@ -1,0 +1,66 @@
+original en: Hi, how are you today?
+
+-> af (Afrikaans):  Hi, hoe gaan dit vandag?            	-> en: Hi, how are you today?
+-> ar (Arabic):     مرحبا، كيف حالك اليوم؟ 	-> en: Hello, how are you today?
+-> az (Azerbaijani): Salam, bu gün nə var?             	-> en: Hi, do you have today?
+-> be (Belarusian): Прывітанне, як ты сёння? 	-> en: Hi, how are you today?
+-> bg (Bulgarian):  Здравейте, как сте днес? 	-> en: Hello, how are you today?
+-> bn (Bengali):    এই যে, কেমন আছেন আজ? 	-> en: Hi, how are you today?
+-> ca (Catalan):    Hola, com estàs avui?              	-> en: Hello, how are you today?
+-> cs (Czech):      Ahoj, jak se dnes máte?            	-> en: Hello, how are you today?
+-> cy (Welsh):      Hi, sut wyt ti heddiw?              	-> en: Hi, how are you today?
+-> da (Danish):     Hej, hvordan har du det i dag?      	-> en: Hello, how are you today?
+-> de (German):     Hallo, wie geht es Ihnen heute?     	-> en: Hi, how are you today?
+-> el (Greek):      Γεια σου, πώς είστε σήμερα; 	-> en: Hi, how are you today?
+-> en (English):    Hi, how are you today?              	-> en: Hi, how are you today?
+-> eo (Esperanto):  Hi, how are you today?              	-> en: Hi, how are you today?
+-> es (Spanish):    Hola, ¿cómo estás hoy?           	-> en: Hello, how are you today?
+-> et (Estonian):   Tere, kuidas sul täna?             	-> en: Hello, how are you today?
+-> eu (Basque):     Hi, zer moduz zaude gaur?           	-> en: Hi, how are you today?
+-> fa (Persian):    سلام، حال شما چطور است امروز؟ 	-> en: Hi, how are you today?
+-> fi (Finnish):    Hei, kuinka voit tänään?         	-> en: Hello, how are you today?
+-> fr (French):     Salut, comment allez-vous aujourd&#39;hui? 	-> en: Hi, how are you TODAY
+-> ga (Irish):      Dia duit, conas atá tú inniu?     	-> en: Hello, how are you today?
+-> gl (Galician):   Ola, como está hoxe?               	-> en: Hi, how are you today?
+-> gu (Gujarati):   હાય, કેવી રીતે આજે તમે છો? 	-> en: Hi, how are you?
+-> hi (Hindi):      हाय, आज तुम कैसे कर रहे हैं? 	-> en: Hi, how are you today?
+-> hr (Croatian):   Bok, kako ste danas?                	-> en: Hi, how are you today?
+-> ht (Haitian Creole): Hi, kouman ou ye jodi a?            	-> en: Hi, how are you today?
+-> hu (Hungarian):  Szia, hogy van ma?                  	-> en: Hi, how are you today?
+-> id (Indonesian): Hi, bagaimana kabarmu hari ini?     	-> en: Hi, how are you today?
+-> is (Icelandic):  Hæ, hvernig ert þú í dag?       	-> en: Hi, how are you today?
+-> it (Italian):    Ciao, come stai oggi?               	-> en: Hello, how are you today?
+-> iw (Hebrew):     היי, מה שלומך היום?   	-> en: Hey, how are you today?
+-> ja (Japanese):   こんにちは、元気ですか？ 	-> en: Hello, How are you?
+-> ka (Georgian):   Hi, how are you დღეს?       	-> en: Hi, how are you today?
+-> kn (Kannada):    ಹಾಯ್, ಇಂದು ನೀವು ಹೇಗಿದ್ದೀರಾ? 	-> en: Hi, how are you today?
+-> ko (Korean):     안녕, 잘 지냈니?              	-> en: Hi, how are you?
+-> la (Latin):      Hi, how are you today?              	-> en: Hi, How are you today?
+-> lt (Lithuanian): Hi, how are you today?              	-> en: Hi, how are you today?
+-> lv (Latvian):    Sveiki, Kā jums šodien?           	-> en: Hello, How are you today?
+-> mk (Macedonian): Здраво, како сте денес? 	-> en: Hello, how are you today?
+-> ms (Malay):      Hi, bagaimana anda hari ini?        	-> en: Hi, how are you today?
+-> mt (Maltese):    Hi, kif int illum?                  	-> en: Hi, how are you today?
+-> nl (Dutch):      Hoi, hoe gaat het vandaag?          	-> en: Hi, how are you today?
+-> no (Norwegian):  Hei, hvordan er du i dag?           	-> en: Hello, how are you today?
+-> pl (Polish):     Cześć, jak się masz?             	-> en: Hi, how are you?
+-> pt (Portuguese): Oi, como você está hoje?          	-> en: Hi, how are you today?
+-> ro (Romanian):   Bună, ce mai faci azi?             	-> en: Hi, how are you today?
+-> ru (Russian):    Привет, как ты сегодня? 	-> en: Hi, how are you today?
+-> sk (Slovak):     Ahoj, ako sa dnes máte?            	-> en: Hi, how are you today?
+-> sl (Slovenian):  Živjo, kako ste danes?             	-> en: Hi, how are you today?
+-> sq (Albanian):   Hi, si jeni sot?                    	-> en: Hi, how are you today?
+-> sr (Serbian):    Здраво, како си данас? 	-> en: Hello, how are you today?
+-> sv (Swedish):    Hej, hur mår du idag?              	-> en: Hi, how are you today?
+-> sw (Swahili):    Hi, gani leo?                       	-> en: Hi, How are you today?
+-> ta (Tamil):      Hi, இன்று நீங்கள் எப்படி இருக்கிறீர்கள்? 	-> en: Hi, how are you today?
+-> te (Telugu):     హాయ్, నేడు మీరు ఎలా ఉన్నారు? 	-> en: Hi, how are you today?
+-> th (Thai):       hi, how are you วันนี้? 	-> en: hi, how are you today?
+-> tl (Filipino):   Hi, paano mo ngayon?                	-> en: Hi, how are you today?
+-> tr (Turkish):    Merhaba, bugün nasılsınız?      	-> en: Hi, how are you today?
+-> uk (Ukrainian):  Привіт, як ти сьогодні? 	-> en: Hi, how are you today?
+-> ur (Urdu):       ہیلو، ہیں کہ آج آپ کیسے ہیں؟ 	-> en: Hello, How do you do that today?
+-> vi (Vietnamese): Hi, làm thế nào bạn có ngày hôm nay? 	-> en: Hi, how are you today?
+-> yi (Yiddish):    הי, ווי זענט איר הייַנט? 	-> en: Hi, how are you today?
+-> zh-CN (Chinese Simplified): 嗨，你今天怎么了？         	-> en: Hi, how?
+-> zh-TW (Chinese Traditional): 嗨，你今天怎麼了？         	-> en: Hi, how?
